@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Munir Kabir — Full-stack and AI developer</title>
+<desc id="desc">An architectural isometric sculpture in electric lime and icy blue beside Munir's name. Building useful software from Addis Ababa, Ethiopia.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111e2a"/><stop offset="1" stop-color="#070d16"/></linearGradient>
+ <linearGradient id="top" x2="1" y2="1"><stop stop-color="#edffbb"/><stop offset="1" stop-color="#b7ed63"/></linearGradient>
+ <linearGradient id="side" x2="1" y2="1"><stop stop-color="#74b347"/><stop offset="1" stop-color="#315b37"/></linearGradient>
+ <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#a1e9ff"/><stop offset="1" stop-color="#347888"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c8e5ef" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="520" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="520" rx="24" fill="url(#grid)"/>
+<path d="M48 52H78M48 52V82M1152 468H1122M1152 468V438" fill="none" stroke="#c9f48b" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="72" y="93" fill="#c9f48b" font-size="14" letter-spacing="3">MUNIR KABIR / BLACK12-AG</text>
+ <text x="68" y="191" fill="#f2f5f0" font-size="70" font-weight="700" letter-spacing="-3">Ideas into</text>
+ <text x="68" y="270" fill="#c9f48b" font-size="70" font-weight="700" letter-spacing="-3">working things.</text>
+ <text x="72" y="326" fill="#d6e0e3" font-size="22">Full-stack development · AI · Mobile</text>
+ <text x="72" y="364" fill="#9baeb9" font-size="18">From Addis Ababa, Ethiopia.</text>
+ <path d="M72 413H510" stroke="#30414a"/>
+ <text x="72" y="448" fill="#9baeb9" font-size="13" letter-spacing="2">CODE WITH PURPOSE. BUILD WITH CARE.</text>
+</g>
+<!-- An isometric assembly: a solid base, a glass tower, and floating lime modules. -->
+<ellipse cx="887" cy="417" rx="205" ry="40" fill="#000" opacity=".3"/>
+<g stroke-linejoin="round">
+ <path d="M675 348L883 233L1110 358L903 476Z" fill="#142531" stroke="#344957"/>
+ <path d="M675 348V369L903 497V476Z" fill="#0b1720" stroke="#263b46"/>
+ <path d="M903 476L1110 358V379L903 497Z" fill="#1e3440" stroke="#344957"/>
+ <path d="M715 348L885 253L1070 357L902 452Z" fill="none" stroke="#486a78" stroke-dasharray="4 9"/>
+ <path d="M784 292L884 236L984 292L884 349Z" fill="#c4f0fa"/>
+ <path d="M784 292V367L884 425V349Z" fill="url(#glass)"/>
+ <path d="M884 349L984 292V367L884 425Z" fill="#26576a"/>
+ <path d="M802 322L865 358M802 338L850 366" stroke="#dbf9ff" stroke-opacity=".5" stroke-width="3"/>
+ <path d="M810 176L910 119L1010 176L910 233Z" fill="url(#top)"/>
+ <path d="M810 176V255L910 313V233Z" fill="#91c653"/>
+ <path d="M910 233L1010 176V255L910 313Z" fill="url(#side)"/>
+ <path d="M846 176L910 140L974 176L910 212Z" fill="#14251d"/>
+ <path d="M866 176L910 151L954 176L910 201Z" fill="#5d7e3f"/>
+ <path d="M683 238L731 210L779 238L731 266Z" fill="#c9f48b"/>
+ <path d="M683 238V278L731 306V266Z" fill="#84b850"/>
+ <path d="M731 266L779 238V278L731 306Z" fill="#446b39"/>
+ <path d="M989 92L1025 71L1061 92L1025 113Z" fill="#ccf1fb"/>
+ <path d="M989 92V123L1025 144V113Z" fill="#7db4c6"/>
+ <path d="M1025 113L1061 92V123L1025 144Z" fill="#376b81"/>
+ <path d="M1056 265L1080 251L1104 265L1080 279Z" fill="#c9f48b"/>
+ <path d="M1056 265V286L1080 300V279Z" fill="#84b850"/>
+ <path d="M1080 279L1104 265V286L1080 300Z" fill="#446b39"/>
+ <path d="M731 202V165H784M1025 151V191H1059" fill="none" stroke="#77959f" stroke-dasharray="3 6"/>
+</g>
+</svg>
